@@ -1,0 +1,46 @@
+header{
+	width: 100%;
+	background: #61411d;
+	height: 70px;
+}
+
+.header{
+    color: #f0b36e;
+    font-family: Courier New;
+	font-size: 36px;
+	padding-top: 10px;
+	padding-left: 40px;
+}
+
+.navigation{
+    list-style: none;
+	position: absolute;
+	top: 10px;
+	right: 100px;
+}
+
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 15px;
+    color: #f0b36e;
+}
+
+.navigation a:hover{
+    background-color: #F0E68C;
+    color: #61411d;
+}
+
+.nss {
+    color: #61411d;
+    text-align: center;
+}
+
+.content {
+font-size: 25px;
+font-family: Courier New;
+}
+
+.content p{
+padding-left: 40px;
+}
